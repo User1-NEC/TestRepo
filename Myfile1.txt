@@ -1,0 +1,10 @@
+Email = akansha.agarwal1@india.nec.com
+Password1 = password@12
+Password2 = thisischeckpwd@12
+Personal = akansha.agrwal@gmail.com
+username = NEC_user3
+Access key = AKIA4UGyt7YXYTyCL7X7
+Secret key = OC2wIMlneri4poy39UDnHJ6rivddj1XUYcQtJVjj
+Client secrets = e084096e77698d262d2f9c22e7a43ab637208a24c
+
+
