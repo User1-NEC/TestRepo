@@ -1,0 +1,6 @@
+username = valid_user
+Password = thisisdummypass
+Access key = AKIA4UGPQ7YXYTECL7X7
+Secret key = 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
+Email = akansha.agarwal@india.nec.com
+Personal = akansha.agarwal@mail.com
